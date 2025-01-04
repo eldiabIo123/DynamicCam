@@ -1,0 +1,9 @@
+opencv-python
+pygame
+pyaudio
+pystray
+Pillow
+numpy
+screeninfo
+tkinter
+
